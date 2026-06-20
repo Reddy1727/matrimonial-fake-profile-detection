@@ -1,0 +1,43 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#fff5f7"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="350" cy="50" r="40" fill="#FF6B9D" opacity="0.3"/>
+  <circle cx="50" cy="350" r="35" fill="#C44569" opacity="0.2"/>
+  
+  <!-- Person creating profile -->
+  <circle cx="200" cy="100" r="45" fill="#FF6B9D"/>
+  
+  <!-- Head -->
+  <circle cx="200" cy="85" r="30" fill="#FFD4D8"/>
+  
+  <!-- Smile -->
+  <path d="M 190 95 Q 200 100 210 95" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Eyes -->
+  <circle cx="192" cy="82" r="3" fill="#333"/>
+  <circle cx="208" cy="82" r="3" fill="#333"/>
+  
+  <!-- Body -->
+  <rect x="170" y="120" width="60" height="70" rx="10" fill="#FF6B9D"/>
+  
+  <!-- Arms -->
+  <rect x="100" y="130" width="70" height="20" rx="10" fill="#FFD4D8"/>
+  <rect x="230" y="130" width="70" height="20" rx="10" fill="#FFD4D8"/>
+  
+  <!-- Legs -->
+  <rect x="180" y="200" width="15" height="60" rx="7" fill="#333"/>
+  <rect x="205" y="200" width="15" height="60" rx="7" fill="#333"/>
+  
+  <!-- Registration form elements -->
+  <rect x="80" y="280" width="240" height="100" rx="8" fill="#F0F0F0" stroke="#FF6B9D" stroke-width="2"/>
+  
+  <!-- Form fields -->
+  <line x1="100" y1="300" x2="300" y2="300" stroke="#FF6B9D" stroke-width="2" stroke-linecap="round"/>
+  <line x1="100" y1="325" x2="300" y2="325" stroke="#FF6B9D" stroke-width="2" stroke-linecap="round"/>
+  <line x1="100" y1="350" x2="300" y2="350" stroke="#FF6B9D" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Text label -->
+  <text x="200" y="380" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FF6B9D" text-anchor="middle">Join Our Community</text>
+</svg>

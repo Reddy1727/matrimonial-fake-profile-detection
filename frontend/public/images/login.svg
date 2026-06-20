@@ -1,0 +1,31 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#fef9fa"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="320" cy="80" r="50" fill="#FF4472" opacity="0.15"/>
+  <circle cx="80" cy="320" r="45" fill="#C44569" opacity="0.1"/>
+  
+  <!-- Two hands holding hearts (romantic) -->
+  <!-- Left hand -->
+  <path d="M 120 180 Q 100 200 100 240 L 140 240 L 140 180 Q 140 160 120 180" fill="#FFD4D8" stroke="#FF6B9D" stroke-width="2"/>
+  <rect x="100" y="150" width="35" height="50" rx="15" fill="#FFD4D8" stroke="#FF6B9D" stroke-width="2"/>
+  
+  <!-- Right hand -->
+  <path d="M 280 180 Q 300 200 300 240 L 260 240 L 260 180 Q 260 160 280 180" fill="#FFD4D8" stroke="#FF6B9D" stroke-width="2"/>
+  <rect x="265" y="150" width="35" height="50" rx="15" fill="#FFD4D8" stroke="#FF6B9D" stroke-width="2"/>
+  
+  <!-- Large heart in the middle -->
+  <path d="M 200 140 C 200 140 170 110 150 110 C 135 110 125 120 125 135 C 125 160 170 200 200 230 C 230 200 275 160 275 135 C 275 120 265 110 250 110 C 230 110 200 140 200 140" fill="#FF4472" stroke="#C44569" stroke-width="2"/>
+  
+  <!-- Small decorative hearts -->
+  <path d="M 280 120 C 280 120 270 110 260 110 C 253 110 247 115 247 122 C 247 135 270 155 280 165 C 290 155 313 135 313 122 C 313 115 307 110 300 110 C 290 110 280 120 280 120" fill="#FF6B9D" opacity="0.7"/>
+  
+  <path d="M 120 120 C 120 120 110 110 100 110 C 93 110 87 115 87 122 C 87 135 110 155 120 165 C 130 155 153 135 153 122 C 153 115 147 110 140 110 C 130 110 120 120 120 120" fill="#FF6B9D" opacity="0.7"/>
+  
+  <!-- Welcome text -->
+  <text x="200" y="310" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FF4472" text-anchor="middle">Welcome Back!</text>
+  
+  <!-- Subtitle -->
+  <text x="200" y="350" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">Find your perfect match</text>
+</svg>

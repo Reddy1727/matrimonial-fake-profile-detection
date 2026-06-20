@@ -1,0 +1,54 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="400" fill="#f5faff"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="350" cy="50" r="40" fill="#FF6B9D" opacity="0.2"/>
+  <circle cx="50" cy="350" r="35" fill="#4FC3F7" opacity="0.15"/>
+  
+  <!-- Central profile circle -->
+  <circle cx="200" cy="110" r="55" fill="#FFE0E6" stroke="#FF6B9D" stroke-width="3"/>
+  
+  <!-- Profile person -->
+  <!-- Head -->
+  <circle cx="200" cy="90" r="25" fill="#FFD4D8"/>
+  
+  <!-- Face -->
+  <circle cx="193" cy="85" r="2.5" fill="#333"/>
+  <circle cx="207" cy="85" r="2.5" fill="#333"/>
+  <path d="M 195 92 Q 200 95 205 92" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Body -->
+  <rect x="175" y="115" width="50" height="50" rx="8" fill="#FF6B9D"/>
+  
+  <!-- Surrounding match profiles -->
+  <!-- Left profile -->
+  <circle cx="100" cy="200" r="40" fill="#E1F5FE" stroke="#4FC3F7" stroke-width="2"/>
+  <circle cx="100" cy="185" r="18" fill="#B3E5FC"/>
+  <rect x="85" y="210" width="30" height="25" rx="5" fill="#4FC3F7"/>
+  
+  <!-- Right profile -->
+  <circle cx="300" cy="200" r="40" fill="#E1F5FE" stroke="#4FC3F7" stroke-width="2"/>
+  <circle cx="300" cy="185" r="18" fill="#B3E5FC"/>
+  <rect x="285" y="210" width="30" height="25" rx="5" fill="#4FC3F7"/>
+  
+  <!-- Connection lines -->
+  <line x1="160" y1="130" x2="135" y2="185" stroke="#FF6B9D" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
+  <line x1="240" y1="130" x2="265" y2="185" stroke="#FF6B9D" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
+  
+  <!-- Matching hearts -->
+  <path d="M 95 150 C 95 150 85 140 77 140 C 68 140 62 146 62 155 C 62 170 85 190 95 200 C 105 190 128 170 128 155 C 128 146 122 140 113 140 C 105 140 95 150 95 150" fill="#FF6B9D" opacity="0.7"/>
+  
+  <path d="M 305 150 C 305 150 315 140 323 140 C 332 140 338 146 338 155 C 338 170 315 190 305 200 C 295 190 272 170 272 155 C 272 146 278 140 287 140 C 295 140 305 150 305 150" fill="#FF6B9D" opacity="0.7"/>
+  
+  <!-- Info boxes -->
+  <rect x="60" y="280" width="130" height="80" rx="6" fill="#F0F8FF" stroke="#4FC3F7" stroke-width="1.5"/>
+  <text x="125" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4FC3F7" text-anchor="middle">Your Profile</text>
+  <line x1="75" y1="315" x2="175" y2="315" stroke="#4FC3F7" stroke-width="1" opacity="0.5"/>
+  <text x="125" y="335" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">View &amp; Verify</text>
+  
+  <rect x="210" y="280" width="130" height="80" rx="6" fill="#FFF5F7" stroke="#FF6B9D" stroke-width="1.5"/>
+  <text x="275" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FF6B9D" text-anchor="middle">Matches</text>
+  <line x1="225" y1="315" x2="325" y2="315" stroke="#FF6B9D" stroke-width="1" opacity="0.5"/>
+  <text x="275" y="335" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Find Perfect Match</text>
+</svg>
